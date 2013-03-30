@@ -8,8 +8,22 @@ Usage :
 
     ./phrases.py <n>
 
-Where <n> is the number of unique phrases desired.
+Where <n> is the number of unique phrases desired. For example :
 
+    $ ./phrases.py 5
+    the unquestionably fine baboon
+    the urgently helpful halyard
+    the hitherto content saucer
+    the playfully enchanted centipede
+    the cautiously worthy cheese
+
+Within one run, there should be no repeats, or an error will be
+produced. 
+
+The word lists provided should furnish up to 2,509,200 unique phrases.
+You can, of course, increase the number of possible phrases by adding
+words to the lists. The words included in the lists were ones I was
+able to think of at the time.
 
 === INSPIRATIONAL QUOTE ===
 
