@@ -2,7 +2,7 @@
 import random
 import sys
 
-# Assing a variable for this namespace
+# Assign a variable for this namespace
 number_of_phrases = 0
 try:
     number_of_phrases = int( sys.argv[1] ) 
